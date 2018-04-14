@@ -1,9 +1,9 @@
 <h2>About Me</h2>
 
-<img style="float: left;;margin:0px 30px 10px 20px" height="150" src="/upload.jpg">
+<img style="float: left;;margin:0px 30px 10px 20px" height="160" src="/upload.jpg">
 
 <p style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype">
-Jia Wan   <br>
+<span style="font-size: 12pt">Jia Wan</span><span lang="zh-cn" style="font-size: 12pt"> 万佳</span> <br>
 Ph.D <br>
 Tencent AI Lab <br>
 Video, Image, and Sound Analysis Lab (VISAL) <br>
@@ -13,7 +13,7 @@ City University of Hong Kong <br>
 Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
 </p>
 
-<p style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">I am now working as an intern in Tencent AI Lab for 3 months. After that, I will persue my PhD degree at City University of Hong Kong.  My research interests include image classification, traffic congestion analysis, and multiple object tracking.</p>
+<p style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">I am now working as an intern in Tencent AI Lab. After that, I will persue my PhD degree at City University of Hong Kong.  My research interests include image classification, traffic congestion analysis, and multiple object tracking.</p>
 
 <p style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">Previously, I obtained my master degree in the School of Computer Science and the Center for OPTical IMagery Analysis and Learning (OPTIMAL), and bachlar degree at the Software Engineering School in Northwestern Polytechnical University, Xi'an, Shaanxi, China.</p>
 
@@ -30,11 +30,10 @@ Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
 
 <p style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">
 <h2 style="text-align:left; padding-top:20px;">Computer Skills</h2>
-<b>Languages:</b> Python, C, C++, Matlab <br>
-<b>Software:</b> Tenserflow, Caffe, OpenCV, Linux, Office
+<b>Languages:</b> <span> Python, C, C++, Matlab </span> <br>
+<b>Software:</b> <span> Tenserflow, Caffe, OpenCV, Linux, Office </span>
 </p>
 
-<br>
 <div id="footer-wrap">
     <div align="center">
     <p><span id="idTestJson" style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">Last updated: April 2018 </span></p>
