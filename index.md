@@ -45,6 +45,6 @@ Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
 <br>
 <div id="footer-wrap">
     <div align="center">
-    <p><span id="idTestJson" style="color:#EEE;font-size: 14pt;font-family="Palatino Linotype">Last updated: April 2018 </span></p>
+    <p><span id="idTestJson" style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">Last updated: April 2018 </span></p>
 </div><!-- end footer-wrap -->
 
