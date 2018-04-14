@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<p>
+<br>
+Jia Wan   <br>
+M. Eng.  <br>
+Center for OPTical IMagery Analysis and Learning (OPTIMAL)   <br>
+Northwestern Polytechnical University <br>
+Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
+</p>
 
-You can use the [editor on GitHub](https://github.com/jia-wan/jia-wan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<br>
+<br>
+<p>I am now working as a intern in Tencent AI Lab for 3 months. After that, I will persue my PhD degree at City University of Hong Kong.  My research interests include image classification, traffic congestion analysis, and multiple object tracjing.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>Previously, I obtained my master degree in the School of Computer Science and the Center for OPTical IMagery Analysis and Learning (OPTIMAL), and bachlar degree at the Software Engineering School in Northwestern Polytechnical University, Xi'an, Shaanxi, China.</p>
 
-### Markdown
+<p>
+<h2 style="text-align:left; padding-top:20px;">Projects</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b>Traffic Congestion Analysis</b>
+<li>Develop an effective congestion analysis system.</li>
 
-```markdown
-Syntax highlighted code block
+<b>Pedestrian Detection</b>
+<li>Improve traditional detection accuracy and speed.</li>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p>
+<h2 style="text-align:left; padding-top:20px;">Publications</h2>
+<ol style="margin-left:1em">
+<li class="STYLE13"> Q. Wang, J. Wan, and Y. Yuan, “Deep Metric Learning for Crowdedness Regression” <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),</i> accepted, 2017.</li>
+<li class="STYLE13"> Q. Wang, J. Wan, and Y. Yuan, “Locality Constraint Distance Metric Learning for Traffic Congestion Detection” <i>Pattern Recognition (PR),</i> accepted, 2017.</li>
+<li class="STYLE13"> J. Wan, Y. Yuan, and Q. Wang, “Traffic Congestion Analysis: A New Perspective,” <i>Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP),</i> accepted, 2017. Oral</li>
+<li class="STYLE13"> Y. Yuan, J. Wan, and Q. Wang, "Congested Scene Classification via Efficient Unsupervised Feature Learning and Density Estimation," <i>Pattern Recognition (PR),</i> vol. 56, pp. 159-169, 2016.</li>
+</ol>
+</p>
 
-- Bulleted
-- List
+<p>
+<h2 style="text-align:left; padding-top:20px;">Patents</h2>
+<ol style="margin-left:1em">
+<li class="STYLE13"> Y. Yuan, Q. Wang, and J. Wan, "Congested Scene Classification via Efficient Unsupervised Feature Learning and Density Estimation," 201510359561.5, 2015.</li>
+</ol>
+</p>
+<p>
 
-1. Numbered
-2. List
+<h2 style="text-align:left; padding-top:20px;">Computer Skills</h2>
+<b>Languages:</b> Python, C, C++, Matlab <br>
+<b>Software:</b> Tenserflow, Caffe, OpenCV, Linux, Office
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jia-wan/jia-wan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</p>
