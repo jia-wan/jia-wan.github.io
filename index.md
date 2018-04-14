@@ -3,7 +3,7 @@
 <img style="float: left;;margin:0px 30px 10px 20px" height="160" src="/upload.jpg">
 
 <p style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype">
-<span style="font-size: 14pt">Jia Wan</span><span lang="zh-cn" style="font-size: 14pt; font-family:楷体">   万佳</span> <br>
+<span style="font-size: 14pt">Jia Wan</span><span lang="zh-cn" style="font-size: 14pt; font-family:楷体"> 万佳</span> <br>
 Ph.D <br>
 Tencent AI Lab <br>
 Video, Image, and Sound Analysis Lab (VISAL) <br>
