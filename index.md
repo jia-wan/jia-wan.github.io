@@ -1,3 +1,7 @@
+<h2>About Me</h2>
+
+<img style="float: left;;margin:0px 30px 10px 20px" height="150" src="/public/wanjia.jpg">
+
 <p>
 <br>
 Jia Wan   <br>
