@@ -42,6 +42,7 @@ Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
 <b>Languages:</b> Python, C, C++, Matlab <br>
 <b>Software:</b> Tenserflow, Caffe, OpenCV, Linux, Office
 
+<p>
 <div id="footer-wrap">
     <div  class="container" align="center">
     <p><span id="idTestJson" style="color:#EEE;font-size: 14pt;font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;">Last updated: April 2018 </span></p>
