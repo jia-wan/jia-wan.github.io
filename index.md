@@ -29,7 +29,7 @@ Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
 
 <p>
 <h2 style="text-align:left; padding-top:20px;">Publications</h2>
-<ol style="margin-left:1em" font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;>
+<ol style="margin-left:1em" font-family: "Palatino Linotype","Book Antiqua",Palatino,serif>
 <li class="STYLE13"> Q. Wang, J. Wan, and Y. Yuan, “Deep Metric Learning for Crowdedness Regression” <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),</i> accepted, 2017.</li>
 <li class="STYLE13"> Q. Wang, J. Wan, and Y. Yuan, “Locality Constraint Distance Metric Learning for Traffic Congestion Detection” <i>Pattern Recognition (PR),</i> accepted, 2017.</li>
 <li class="STYLE13"> J. Wan, Y. Yuan, and Q. Wang, “Traffic Congestion Analysis: A New Perspective,” <i>Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP),</i> accepted, 2017. Oral</li>
@@ -42,10 +42,9 @@ Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
 <b>Languages:</b> Python, C, C++, Matlab <br>
 <b>Software:</b> Tenserflow, Caffe, OpenCV, Linux, Office
 
-<p>
+<br>
 <div id="footer-wrap">
     <div  class="container" align="center">
     <p><span id="idTestJson" style="color:#EEE;font-size: 14pt;font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;">Last updated: April 2018 </span></p>
 </div><!-- end footer-wrap -->
-  
-</p>
+
