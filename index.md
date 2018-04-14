@@ -12,7 +12,6 @@ Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
 </p>
 
 <br>
-<br>
 <p>I am now working as a intern in Tencent AI Lab for 3 months. After that, I will persue my PhD degree at City University of Hong Kong.  My research interests include image classification, traffic congestion analysis, and multiple object tracjing.</p>
 
 <p>Previously, I obtained my master degree in the School of Computer Science and the Center for OPTical IMagery Analysis and Learning (OPTIMAL), and bachlar degree at the Software Engineering School in Northwestern Polytechnical University, Xi'an, Shaanxi, China.</p>
