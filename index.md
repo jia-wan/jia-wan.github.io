@@ -1,9 +1,9 @@
-<h2>About Me</h2>
+<h2 font-family:Palatino Linotype>About Me</h2>
 
 <img style="float: left;;margin:0px 30px 10px 20px" height="160" src="/upload.jpg">
 
 <p style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype">
-<span style="font-size: 12pt">Jia Wan</span><span lang="zh-cn" style="font-size: 12pt; font-family:楷体">   万佳</span> <br>
+<span style="font-size: 14pt">Jia Wan</span><span lang="zh-cn" style="font-size: 14pt; font-family:楷体">   万佳</span> <br>
 Ph.D <br>
 Tencent AI Lab <br>
 Video, Image, and Sound Analysis Lab (VISAL) <br>
@@ -13,29 +13,29 @@ City University of Hong Kong <br>
 Email: <a href="mailto:jiawan1998@gmail.com">jiawan1998@gmail.com</a>  <br><br>
 </p>
 
-<p style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">I am now working as an intern in Tencent AI Lab. After that, I will persue my PhD degree at City University of Hong Kong.  My research interests include image classification, traffic congestion analysis, and multiple object tracking.</p>
+<p style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype">I am now working as an intern in Tencent AI Lab. After that, I will persue my PhD degree at City University of Hong Kong.  My research interests include image classification, traffic congestion analysis, and multiple object tracking.</p>
 
-<p style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">Previously, I obtained my master degree in the School of Computer Science and the Center for OPTical IMagery Analysis and Learning (OPTIMAL), and bachlar degree at the Software Engineering School in Northwestern Polytechnical University, Xi'an, Shaanxi, China.</p>
+<p style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype">Previously, I obtained my master degree in the School of Computer Science and the Center for OPTical IMagery Analysis and Learning (OPTIMAL), and bachlar degree at the Software Engineering School in Northwestern Polytechnical University, Xi'an, Shaanxi, China.</p>
 
 
-<p style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">
-<h2 style="text-align:left; padding-top:20px;">Publications</h2>
+<p style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype">
+<h2 style="text-align:left; padding-top:20px;font-family:Palatino Linotype">Publications</h2>
 <ol style="margin-left:1em">
-<li style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype"> Q. Wang, J. Wan, and Y. Yuan, “Deep Metric Learning for Crowdedness Regression” <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),</i> accepted, 2017.</li>
-<li style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype"> Q. Wang, J. Wan, and Y. Yuan, “Locality Constraint Distance Metric Learning for Traffic Congestion Detection” <i>Pattern Recognition (PR),</i> accepted, 2017.</li>
-<li style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype"> J. Wan, Y. Yuan, and Q. Wang, “Traffic Congestion Analysis: A New Perspective,” <i>Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP),</i> accepted, 2017. Oral</li>
-<li style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype"> Y. Yuan, J. Wan, and Q. Wang, "Congested Scene Classification via Efficient Unsupervised Feature Learning and Density Estimation," <i>Pattern Recognition (PR),</i> vol. 56, pp. 159-169, 2016.</li>
+<li style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype"> Q. Wang, J. Wan, and Y. Yuan, “Deep Metric Learning for Crowdedness Regression” <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),</i> accepted, 2017.</li>
+<li style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype"> Q. Wang, J. Wan, and Y. Yuan, “Locality Constraint Distance Metric Learning for Traffic Congestion Detection” <i>Pattern Recognition (PR),</i> accepted, 2017.</li>
+<li style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype"> J. Wan, Y. Yuan, and Q. Wang, “Traffic Congestion Analysis: A New Perspective,” <i>Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP),</i> accepted, 2017. Oral</li>
+<li style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype"> Y. Yuan, J. Wan, and Q. Wang, "Congested Scene Classification via Efficient Unsupervised Feature Learning and Density Estimation," <i>Pattern Recognition (PR),</i> vol. 56, pp. 159-169, 2016.</li>
 </ol>
 </p>
 
 <p>
-<h2 style="text-align:left; padding-top:20px;">Computer Skills</h2>
+<h2 style="text-align:left; padding-top:20px; font-family:Palatino Linotype">Computer Skills</h2>
 <b>Languages:</b> <span style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype"> Python, C, C++, Matlab </span> <br>
 <b>Software:</b> <span style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype"> Tenserflow, Caffe, OpenCV, Linux, Office </span>
 </p>
 
 <div id="footer-wrap">
     <div align="center">
-    <p><span id="idTestJson" style="color:#EEE;font-size: 14pt;font-family:Palatino Linotype">Last updated: April 2018 </span></p>
+    <p><span id="idTestJson" style="color:#EEE;font-size: 12pt;font-family:Palatino Linotype">Last updated: April 2018 </span></p>
 </div><!-- end footer-wrap -->
 
