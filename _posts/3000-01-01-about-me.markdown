@@ -1,0 +1,12 @@
+---
+layout: post
+title: ""
+date: 2020-12-08 23:32:20 +0300
+tag: about
+description: # Add post description (optional)
+img:  # Add image post (optional)
+---
+I am working in the [Video, Image, and Sound Analysis Lab (VISAL)](http://visal.cs.cityu.edu.hk), City University of Hong Kong, supervised by [Dr. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/). My research interests include crowd counting, pose estimation, and traffic congestion analysis.  
+
+I received the M.Sc. degree in the School of Computer Science and the Center for OPTical IMagery Analysis and Learning (OPTIMAL), supervised by [Dr. Qi Wang](http://crabwq.github.io), and B.Eng. degree at the Software Engineering School in Northwestern Polytechnical University, Xi'an, Shaanxi, China.
+In 2018, I was an intern at Tencent AI Lab in Shenzhen, working with [Dr. Wenhan Luo](https://whluo.github.io) and [Dr. Baoyuan Wu](https://scholar.google.com/citations?user=JNTG1KoAAAAJ&hl=en). 

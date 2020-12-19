@@ -1,24 +1,7 @@
 ---
 layout: main
 ---
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;Bio</h2>
-{% for post in site.posts %}
-  {% if post.tag == 'about' %}
-  <article class="post">
-    {% if post.img %}
-      <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" ></a>
-    {% else %}
-    {% endif %}
-    <div class="post-content">
-      <h2 class="post-title">{{post.title}}</h2>
-      <p>{{ post.content }}</p>
-    </div>
-  </article>
-  {% else %}
-{% endif %}
-{% endfor %}
-
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;Selected Publications <span style="font-weight:normal;font-size:80%"><a href="/all/index.html">[All]</a></span></h2> 
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;All Publications</h2> 
 {% for post in site.posts %}
   {% if post.tag == 'pub' %}
   <article class="post">
@@ -35,10 +18,8 @@ layout: main
 {% endif %}
 {% endfor %}
 
-
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;Service</h2>
 {% for post in site.posts %}
-  {% if post.tag == 'service' %}
+  {% if post.tag == 'otherpub' %}
   <article class="post">
     {% if post.img %}
       <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" ></a>
@@ -52,4 +33,6 @@ layout: main
   {% else %}
 {% endif %}
 {% endfor %}
+
+
 
