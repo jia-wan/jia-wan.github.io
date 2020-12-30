@@ -1131,10 +1131,11 @@ footer .copyright {
 .post .post-thumbnail {
   width: 30%;
   max-width: 100%;
-  min-height: 11rem;
-  -webkit-background-size: cover;
-          background-size: cover;
-  background-position: 0% 0%;
+  padding: 1rem;
+}
+
+.post .post-thumbnail .img {
+  position: absolute;
 }
 
 .post .post-content {

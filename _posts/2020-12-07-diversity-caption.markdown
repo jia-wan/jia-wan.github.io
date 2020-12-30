@@ -6,6 +6,7 @@ tag: pub
 description: # Add post description (optional)
 img: dcaption.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+margin: 10px
 ---
 
 Qingzhong Wang, Jia Wan, and Antoni B. Chan   

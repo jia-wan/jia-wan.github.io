@@ -6,6 +6,7 @@ tag: otherpub
 description: # Add post description (optional)
 img: scene.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+margin: 20px
 ---
 
 Yuan Yuan, Jia Wan, and Qi Wang  

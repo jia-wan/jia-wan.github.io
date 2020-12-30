@@ -6,7 +6,7 @@ layout: main
   {% if post.tag == 'pub' %}
   <article class="post">
     {% if post.img %}
-      <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" ></a>
+    <a class="post-thumbnail" style="margin-top:{{post.margin}};"><img src={{"/assets/img/" | prepend: site.baseurl | append : post.img}}/></a>
     {% else %}
     {% endif %}
     <div class="post-content">
@@ -22,7 +22,7 @@ layout: main
   {% if post.tag == 'otherpub' %}
   <article class="post">
     {% if post.img %}
-      <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" ></a>
+    <a class="post-thumbnail" style="margin-top:{{post.margin}};"><img src={{"/assets/img/" | prepend: site.baseurl | append : post.img}}/></a>
     {% else %}
     {% endif %}
     <div class="post-content">

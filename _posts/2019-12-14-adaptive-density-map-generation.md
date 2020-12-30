@@ -6,6 +6,7 @@ tag: pub
 description: # Add post description (optional)
 img: admg.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+margin: 20px
 ---
 
 Jia Wan and Antoni B. Chan  

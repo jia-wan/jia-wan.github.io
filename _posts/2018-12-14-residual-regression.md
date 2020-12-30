@@ -6,6 +6,7 @@ tag: pub
 description: # Add post description (optional)
 img: res_motiv.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+margin: 20px
 ---
 
 Jia Wan, Wenhan Luo, Baoyuan Wu, Antoni B. Chan, and Wei Liu  
