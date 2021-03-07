@@ -10,5 +10,5 @@ margin: 15px
 ---
 
 Qiangqiang Wu, Jia Wan, and Antoni B. Chan  
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</i>  
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. Oral</i>  
 
