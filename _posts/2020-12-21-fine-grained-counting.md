@@ -10,6 +10,6 @@ margin: 15px
 ---
 
 Jia Wan, Nikil Senthil Kumar, and Antoni B. Chan  
-<i>IEEE Trans. Image Processing (TIP), 2020.</i>  
+<i>IEEE Trans. Image Processing (TIP), 2021.</i>  
 [[pdf](http://visal.cs.cityu.edu.hk/static/pubs/journal/tip21-fgc.pdf)][[code](https://github.com/jia-wan/Fine-Grained-Counting)][[dataset](https://drive.google.com/file/d/1jMmtGywb4LuVpcLhIt_54BFrB-faYAW1/view?usp=sharing)]
 
