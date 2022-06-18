@@ -6,7 +6,7 @@ tag: about
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
-I am working in the [Video, Image, and Sound Analysis Lab (VISAL)](http://visal.cs.cityu.edu.hk), City University of Hong Kong, supervised by [Dr. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/). My research interests include crowd counting, pose estimation, and traffic congestion analysis.  
+I am working as a Posdoc in the Statistical Visual Computing Laboratory (SVCL), University of California, San Diego, advised by [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/). Before that, I obtained my Ph.D degree in the [Video, Image, and Sound Analysis Lab (VISAL)](http://visal.cs.cityu.edu.hk), City University of Hong Kong, supervised by [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/). My research interests include crowd counting, pose estimation, and traffic congestion analysis.  
 
-I received the M.Sc. degree in the School of Computer Science and the Center for OPTical IMagery Analysis and Learning (OPTIMAL), supervised by [Dr. Qi Wang](http://crabwq.github.io), and B.Eng. degree at the Software Engineering School in Northwestern Polytechnical University, Xi'an, Shaanxi, China.
+I received the M.Sc. degree in the School of Computer Science and the Center for OPTical IMagery Analysis and Learning (OPTIMAL), supervised by [Prof. Qi Wang](http://crabwq.github.io), and B.Eng. degree at the Software Engineering School in Northwestern Polytechnical University, Xi'an, Shaanxi, China.
 In 2018, I was an intern at Tencent AI Lab in Shenzhen, working with [Dr. Wenhan Luo](https://whluo.github.io) and [Dr. Baoyuan Wu](https://scholar.google.com/citations?user=JNTG1KoAAAAJ&hl=en). 
