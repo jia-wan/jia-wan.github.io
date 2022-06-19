@@ -8,6 +8,6 @@ img: fs.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 ---
 
-Qi Wang, Jia Wan, and Yuan Yuan  
+Qi Wang, <u>Jia Wan</u>, and Yuan Yuan  
 <i>IEEE Trans. Circuits and Systems for Video Technology (T-CSVT), 2017.</i>  
 [[pdf](http://crabwq.github.io/pdf/2018%20Hierarchical%20Feature%20Selection%20for%20Random%20Projection.pdf)]
