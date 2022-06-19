@@ -9,6 +9,6 @@ fig-caption: # Add figcaption (optional)
 margin: 20px
 ---
 
-<u>Jia Wan<\u> and Antoni B. Chan  
+<u>Jia Wan</u> and Antoni B. Chan  
 <i>Intl. Conf. on Computer Vision (ICCV), 2019.</i>  
 [[pdf](http://visal.cs.cityu.edu.hk/static/pubs/conf/iccv19-dmapgen.pdf)]
