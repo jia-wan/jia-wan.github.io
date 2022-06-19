@@ -9,6 +9,6 @@ fig-caption: # Add figcaption (optional)
 margin: 15px
 ---
 
-Jia Wan, Ziquan Liu, and Antoni B. Chan  
+<u>Jia Wan</u>, Ziquan Liu, and Antoni B. Chan  
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</i>  
 
