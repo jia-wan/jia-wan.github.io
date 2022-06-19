@@ -9,7 +9,7 @@ fig-caption: # Add figcaption (optional)
 margin: 10px
 ---
 
-Qingzhong Wang, <u>Jia Wan<\u>, and Antoni B. Chan   
+Qingzhong Wang, <u>Jia Wan</u>, and Antoni B. Chan   
 *IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), to appear, 2020.*  
 [[pdf](http://visal.cs.cityu.edu.hk/static/pubs/journal/pami20-diverse.pdf)]
 
