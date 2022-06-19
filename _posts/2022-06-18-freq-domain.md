@@ -9,5 +9,5 @@ fig-caption: # Add figcaption (optional)
 margin: 15px
 ---
 
-Weibo Shu, Jia Wan, Kay Chen Tan, Sam Kwong, and Antoni B. Chan  
+Weibo Shu, <u>Jia Wan</u>, Kay Chen Tan, Sam Kwong, and Antoni B. Chan  
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</i>  
