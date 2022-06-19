@@ -9,6 +9,6 @@ fig-caption: # Add figcaption (optional)
 margin: 20px
 ---
 
-Jia Wan, Wenhan Luo, Baoyuan Wu, Antoni B. Chan, and Wei Liu  
+<u>Jia Wan<\u>, Wenhan Luo, Baoyuan Wu, Antoni B. Chan, and Wei Liu  
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i>  
 [[pdf](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr19-rescount.pdf)][[code](https://github.com/jia-wan/ResidualRegression-pytorch)]
