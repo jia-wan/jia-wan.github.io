@@ -8,7 +8,7 @@ img: noisycc.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 ---
 
-<u>Jia Wan<\u> and Antoni B. Chan  
+<u>Jia Wan</u> and Antoni B. Chan  
 <i>Neural Information Processing Systems (NeurIPS), 2020.</i>  
 [[pdf](http://visal.cs.cityu.edu.hk/static/pubs/conf/nips2020-noisycc-web.pdf)][[code](https://github.com/jia-wan/NoisyCC-pytorch)][[supplemental](http://visal.cs.cityu.edu.hk/static/pubs/conf/nips2020-noisycc-supp.pdf)]
 
