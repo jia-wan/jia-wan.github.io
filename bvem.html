@@ -1,0 +1,64 @@
+<!DOCTYPE html><html><head><meta charset="utf-8">
+    <!-- Meta tags for social media banners,these should be filled in appropriatly as they are your "business card" -->
+    <!-- Replace the content tag with appropriate information -->
+    <meta name="description" content="DESCRIPTION META TAG">
+    <meta property="og:title" content="SOCIAL MEDIA TITLE TAG" />
+    <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG" />
+    <meta property="og:url" content="URL OF THE WEBSITE" />
+    <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+    <meta property="og:image" content="static/image/your_banner_image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+    <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+    <!-- Path to banner image,should be in the path listed below. Optimal dimenssions are 1200X600-->
+    <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <!-- Keywords for your paper to be indexed by-->
+    <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images</title>
+    <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+    <link rel="stylesheet" href="static/css/bulma.min.css">
+    <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="static/css/index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+    <script defer src="static/js/fontawesome.all.min.js"></script>
+    <script src="static/js/bulma-carousel.min.js"></script>
+    <script src="static/js/bulma-slider.min.js"></script>
+    <script src="static/js/index.js"></script>
+    <script src="https://kit.fontawesome.com/ab505c16be.js" crossorigin="anonymous"></script>
+</head>
+<body><section class="hero"><div class="hero-body"><div class="container is-max-desktop"><div class="columns is-centered"><div class="column has-text-centered"><h1 class="title is-1 publication-title">TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images</h1><div class="is-size-5 publication-authors"><!-- Paper authors --><span class="author-block"><a href="https://jia-wan.github.io" target="_blank">Jia Wan</a><sup>1</sup>,
+</span><span class="author-block"><a href="https://li-wanhua.github.io/" target="_blank">Wanhua Li</a><sup>2</sup>,
+</span><span class="author-block"><a href="https://jasonkena.github.io/" target="_blank">Jason Ken Adhinarta</a><sup>3</sup>,
+</span></span><span class="author-block"><a href="https://atom-101.github.io/" target="_blank">Atmadeep Banerjee</a><sup>3</sup>,
+</span></span><span class="author-block"><a href="https://scholar.google.se/citations?user=fnmgKPEAAAAJ&hl=sv"
+    target="_blank">Evelina Sjostedt</a><sup>2</sup>,
+</span><span class="author-block"><a href="https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en"
+    target="_blank">Jingpeng Wu</a><sup>4</sup>,
+</span><br><span class="author-block"><a href="https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman" target="_blank">Jeff Lichtman</a><sup>2</sup>,
+</span><span class="author-block"><a href="https://seas.harvard.edu/person/hanspeter-pfister" target="_blank">Hanspeter Pfister</a><sup>2</sup>,
+</span><span class="author-block"><a href="https://donglaiw.github.io/" target="_blank">Donglai Wei</a><sup>3</sup>,
+</span></div><div class="is-size-5 publication-authors"><span class="author-block"><sup>1</sup>Harbin Institute of Technology (Shenzhen)<br><sup>2</sup>Harvard University<br><sup>3</sup>Boston College<br><sup>4</sup>Lin Gang Laboratory</span></div><div class="column has-text-centered"><!-- ArXiv abstract Link --><span class="link-block"><a href="https://arxiv.org/abs/2401.13961" target="_blank"
+    class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="ai ai-arxiv"></i></span><span>arXiv</span></a></span><!-- Neuroglancer link --><span class="link-block"><a href="https://tinyurl.com/yc2s38x9" target="_blank"
+        class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="far fa-images"></i></span><span>Neuroglancer</span></a></span><!-- Challenge link --><span class="link-block"><a href="https://codalab.lisn.upsaclay.fr/competitions/16412" target="_blank"
+
+            class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="far fa-lightbulb"></i></span><span>Challenge</span></a></span></div></div></div></div></div></div></section><!-- Paper abstract --><section class="section hero is-light"><div class="container is-max-desktop"><div class="columns is-centered has-text-centered"><div class="column is-four-fifths"><h2 class="title is-3">Abstract</h2><div class="content has-text-justified"><p>While imaging techniques at macro and mesoscales have garnered substantial attention and resources, microscale VEM imaging, capable of revealing intricate vascular details, has lacked the necessary benchmarking infrastructure. In this paper, we address a significant gap in the field of neuroimaging by introducing the largest-to-date public benchmark, BvEM, designed specifically for cortical blood vessel segmentation in volume electron microscopy (VEM) images. Our BvEM benchmark is based on VEM image volumes from three mammal species: adult mouse, macaque, and human. We standardized the resolution, addressed imaging variations, and meticulously annotated blood vessels through semi-automatic, manual, and quality control processes, ensuring high-quality 3D segmentation. Furthermore, we developed a zero-shot cortical blood vessel segmentation method named TriSAM, which leverages the powerful segmentation model SAM for 3D segmentation. To extend SAM from 2D to 3D volume segmentation, TriSAM employs a multi-seed tracking framework, leveraging the reliability of certain image planes for tracking while using others to identify potential turning points. This approach effectively achieves long-term 3D blood vessel segmentation without model training or fine-tuning. Experimental results show that TriSAM achieved superior performances on the BvEM benchmark across three species. </p></div></div></div></div></section><!-- End paper abstract --><!-- Dataset --><section class="section hero"><div class="container is-max-desktop"><div class="columns is-centered has-text-centered"><div class="column is-four-fifths"><h2 class="title is-3">Dataset</h2><div class="content has-text-justified"><p><!-- show an image --><img src="static/images/datasets.png" alt="BvEM" style="width:100%;max-width:800px">The proposed BvEM dataset. We proofread the blood vessel instance segmentation (displayed in different colors) in the three largest publicly available VEM volumes: (a) mouse,
+                macaque,
+            and human samples acquired at different VEM labs. </p></div></div></div></div></section><!-- End dataset --><!-- Paper abstract --><section class="section hero"><div class="container is-max-desktop"><div class="columns is-centered has-text-centered"><div class="column is-four-fifths"><h2 class="title is-3">TriSAM Framework</h2><div class="content has-text-justified"><p><!-- show an image --><img src="static/images/framework.png" alt="BvEM" style="width:100%;max-width:800px">TriSAM framework. (a) Tri-plane selection is first proposed to select the best plane for tracking. (b) SAM-based tracking leverages SAM to perform short-term tracking given a seed location and a tracking direction. (c) Recursive seed sampling exploits potential turning points for long-term tracking. </p></div></div></div></div></section><!-- End paper abstract -->
+            <!--BibTex citation --><section class="section" id="BibTeX"><div class="container is-max-desktop content"><h2 class="title">BibTeX</h2><pre><code>@article{wan2024trisam,
+              title={TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images},
+              author={Wan, Jia and Li, Wanhua and Banerjee, Atmadeep and Adhinarta, Jason Ken and Sjostedt, Evelina and Wu, Jingpeng and Lichtman, Jeff and Pfister, Hanspeter and Wei, Donglai},
+              journal={arXiv preprint arXiv:2401.13961},
+              year={2024}
+          }</code></pre></div></section><!--End BibTex citation --><footer class="footer"><div class="container"><div class="columns is-centered"><div class="column is-8"><div class="footnote"><p>This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template"
+            target="_blank">Academic Project Page Template</a>which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a>project page. You are free to borrow the of this website,
+            we just ask that you link back to this page in the footer. <br>This website is licensed under a <a rel="license"
+            href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>. </p></div></div></div></div></footer><!-- Statcounter tracking code --><!-- You can add a tracker to track page visits by creating an account at statcounter.com --><!-- End of Statcounter Code --></body></html>
