@@ -49,13 +49,13 @@
 <div class="column has-text-centered">
 
 <!-- ArXiv abstract Link -->
-<span class="link-block"><a href="https://arxiv.org/abs/2401.13961" target="_blank" class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="ai ai-arxiv"></i></span><span>arXiv</span></a></span>
+<span class="link-block"><a href="https://ieeexplore.ieee.org/abstract/document/11027715/" target="_blank" class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="ai ai-open-access"></i></span><span>Paper</span></a></span>
 <!-- Neuroglancer link -->
 <span class="link-block"><a href="https://tinyurl.com/yc2s38x9" target="_blank" class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="far fa-images"></i></span><span>Neuroglancer</span></a></span>
 <!-- Challenge link -->
-<span class="link-block"><a href="https://codalab.lisn.upsaclay.fr/competitions/16412" target="_blank" class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="far fa-lightbulb"></i></span><span>Challenge</span></a></span>
+<span class="link-block"><a href="https://huggingface.co/datasets/pytc/BvEM/tree/main" target="_blank" class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="far fa-lightbulb"></i></span><span>Dataset</span></a></span>
 <!-- Github link -->
-<span class="link-block"><a href="https://github.com/jia-wan/bvem" target="_blank" class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="fab fa-github"></i></span><span>Code</span></a></span>
+<span class="link-block"><a href="https://github.com/JINcloud6/TriSAM" target="_blank" class="external-link button is-normal is-rounded is-dark"><span class="icon"><i class="fab fa-github"></i></span><span>Code</span></a></span>
 
 </div></div></div></div></div></div></section>
 
@@ -63,11 +63,13 @@
 <section class="section hero is-light"><div class="container is-max-desktop"><div class="columns is-centered has-text-centered"><div class="column is-four-fifths"><h2 class="title is-3">Abstract</h2><div class="content has-text-justified"><p>While imaging techniques at macro and mesoscales have garnered substantial attention and resources, microscale VEM imaging, capable of revealing intricate vascular details, has lacked the necessary benchmarking infrastructure. In this paper, we address a significant gap in the field of neuroimaging by introducing the largest-to-date public benchmark, BvEM, designed specifically for cortical blood vessel segmentation in volume electron microscopy (VEM) images. Our BvEM benchmark is based on VEM image volumes from three mammal species: adult mouse, macaque, and human. We standardized the resolution, addressed imaging variations, and meticulously annotated blood vessels through semi-automatic, manual, and quality control processes, ensuring high-quality 3D segmentation. Furthermore, we developed a zero-shot cortical blood vessel segmentation method named TriSAM, which leverages the powerful segmentation model SAM for 3D segmentation. To extend SAM from 2D to 3D volume segmentation, TriSAM employs a multi-seed tracking framework, leveraging the reliability of certain image planes for tracking while using others to identify potential turning points. This approach effectively achieves long-term 3D blood vessel segmentation without model training or fine-tuning. Experimental results show that TriSAM achieved superior performances on the BvEM benchmark across three species. </p></div></div></div></div></section><!-- End paper abstract --><!-- Dataset --><section class="section hero"><div class="container is-max-desktop"><div class="columns is-centered has-text-centered"><div class="column is-four-fifths"><h2 class="title is-3">Dataset</h2><div class="content has-text-justified"><p><!-- show an image --><img src="static/images/datasets.png" alt="BvEM" style="width:100%;max-width:800px">The proposed BvEM dataset. We proofread the blood vessel instance segmentation (displayed in different colors) in the three largest publicly available VEM volumes: (a) mouse, macaque,
             and human samples acquired at different VEM labs. </p></div></div></div></div></section><!-- End dataset --><!-- Paper abstract --><section class="section hero"><div class="container is-max-desktop"><div class="columns is-centered has-text-centered"><div class="column is-four-fifths"><h2 class="title is-3">TriSAM Framework</h2><div class="content has-text-justified"><p><!-- show an image --><img src="static/images/framework.png" alt="BvEM" style="width:100%;max-width:800px">TriSAM framework. (a) Tri-plane selection is first proposed to select the best plane for tracking. (b) SAM-based tracking leverages SAM to perform short-term tracking given a seed location and a tracking direction. (c) Recursive seed sampling exploits potential turning points for long-term tracking. </p></div></div></div></div></section><!-- End paper abstract -->
 <!--BibTex citation --><section class="section" id="BibTeX"><div class="container is-max-desktop content"><h2 class="title">BibTeX</h2><pre><code>@article{wan2024trisam,
-          title={TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images},
-          author={Wan, Jia and Li, Wanhua and Banerjee, Atmadeep and Adhinarta, Jason Ken and Sjostedt, Evelina and 
-          Wu, Jingpeng and Lichtman, Jeff and Pfister, Hanspeter and Wei, Donglai},
-          journal={arXiv preprint arXiv:2401.13961},
-          year={2024}
+          @article{wan2025trisam,
+              title={TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images},
+              author={Wan, Jia and Li, Wanhua and Adhinarta, Jason Ken and Banerjee, Atmadeep and Sjostedt, Evelina and Wu, Jingpeng and Lichtman, Jeff and Pfister, Hanspeter and Wei, Donglai},
+              journal={IEEE Journal of Biomedical and Health Informatics},
+              year={2025},
+              publisher={IEEE}
+            }
 }</code></pre></div></section><!--End BibTex citation --><footer class="footer"><div class="container"><div class="columns is-centered"><div class="column is-8"><div class="footnote"><p>This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template"
             target="_blank">Academic Project Page Template</a>which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a>project page. You are free to borrow the of this website,
             we just ask that you link back to this page in the footer. <br>This website is licensed under a <a rel="license"
